@@ -32,7 +32,7 @@ The result is a lightweight **Qwen2.5-3B-Instruct** model that answers questions
 
 ```
 user
-What is your current research focus in your PhD program?
+What is your current research focus for your PhD?
 assistant
 My current research focus is Computer Vision.
 ```
