@@ -28,11 +28,13 @@ The result is a lightweight **Qwen2.5-3B-Instruct** model that answers questions
    * Fine-tune model
    * Interactively query it
 
-## Output Example
+## Output Sample
 
 ```
-User: What is your PhD research focus?
-Model: My research focuses on [your real answer from CV].
+user
+What is your current research focus in his PhD program?
+assistant
+My current research focus is Computer Vision.
 ```
 
 
