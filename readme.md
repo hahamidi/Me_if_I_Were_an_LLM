@@ -1,6 +1,6 @@
 # Me_if_I_Were_an_LLM
 
-This project distills my personal data (from my CV) into a **Large Language Model** using **PEFT** fine-tuning.  
+This toy project distills my personal data (from my CV) into a **Large Language Model** using **PEFT** fine-tuning.  
 The result is a lightweight **Qwen2.5-3B-Instruct** model that answers questions in my own “voice,” grounded entirely in my real experiences, skills, and achievements.
 
 ## Features
