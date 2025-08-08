@@ -1,0 +1,10 @@
+transformers
+accelerate
+datasets
+torch
+torchvision
+peft
+pillow
+bitsandbytes
+pypdf
+ipywidgets
